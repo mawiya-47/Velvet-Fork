@@ -38,48 +38,53 @@
 
 ## 📸 Screenshots
 
-### 🏠 Home — Where Every Bite Becomes a Memory
-![Home Page](./screenshots/screenshot-home.png)
+### 🏠 Home
+![Home](./screenshots/Screenshot%202026-06-24%20050849.png)
 
 ---
 
-### 🍽️ Menu — Gastronomic Masterpieces
-![Menu Page](./screenshots/screenshot-menu.png)
+### 🍽️ Menu
+![Menu](./screenshots/Screenshot%202026-06-24%20050952.png)
 
 ---
 
-### 📅 Reservation — Private Reservation Registry
-![Reservation Page](./screenshots/screenshot-reservation.png)
+### 📅 Reservation
+![Reservation](./screenshots/Screenshot%202026-06-24%20051011.png)
 
 ---
 
-### 🛒 Order Online — Sovereign Checkout Desk
-![Order Online Page](./screenshots/screenshot-order.png)
+### 🛒 Order Online
+![Order Online](./screenshots/Screenshot%202026-06-24%20051029.png)
 
 ---
 
-### 🖼️ Gallery — Michelin Aesthetics
-![Gallery Page](./screenshots/screenshot-gallery.png)
+### 🖼️ Gallery
+![Gallery](./screenshots/Screenshot%202026-06-24%20051058.png)
 
 ---
 
-### 📖 Stories — Culinary Editorial Records
-![Stories Page](./screenshots/screenshot-stories.png)
+### 📖 Stories
+![Stories](./screenshots/Screenshot%202026-06-24%20051111.png)
 
 ---
 
-### ❓ FAQ — Frequently Asked Matters
-![FAQ Page](./screenshots/screenshot-faq.png)
+### ❓ FAQ
+![FAQ](./screenshots/Screenshot%202026-06-24%20051132.png)
 
 ---
 
-### 🔑 Login — Banquet Tasting Credentials
-![Login Modal](./screenshots/screenshot-login.png)
+### 🛒 Order Online 2
+![Order](./screenshots/Screenshot%202026-06-24%20051145.png)
 
 ---
 
-### 🤖 AI Sommelier — Cellar & Kitchen Consultant
-![AI Sommelier](./screenshots/screenshot-sommelier.png)
+### 🔑 Login
+![Login](./screenshots/Screenshot%202026-06-24%20051159.png)
+
+---
+
+### 🤖 AI Sommelier
+![AI Sommelier](./screenshots/Screenshot%202026-06-24%20051225.png)
 
 ---
 
@@ -99,7 +104,6 @@ Velvet-Fork/
 │   │   ├── 🍽️  Menu.tsx             # Restaurant menu
 │   │   ├── 📅 Reservation.tsx      # Table reservations
 │   │   ├── 🛒 Ordering.tsx         # Online ordering
-│   │   ├── 🖼️  App.tsx              # Gallery & main routes
 │   │   ├── 📝 Blog.tsx             # Stories / articles
 │   │   ├── ❓ Faq.tsx              # FAQ page
 │   │   ├── 👤 UserDashboard.tsx    # User account
@@ -109,9 +113,9 @@ Velvet-Fork/
 │   ├── 🎨 index.css                # Global styles
 │   └── 🚀 main.tsx                 # Entry point
 │
-├── 🌐 index.html                   # HTML template
-├── ⚙️  server.ts                    # Express backend
-├── 🗃️  db-velvet-fork.json          # Local JSON database
+├── 🌐 index.html
+├── ⚙️  server.ts
+├── 🗃️  db-velvet-fork.json
 ├── 📦 package.json
 ├── 🔧 vite.config.ts
 └── 🔷 tsconfig.json
@@ -165,7 +169,6 @@ Velvet-Fork/
 ## ⚡ Getting Started
 
 ### Prerequisites
-
 - **Node.js** (v18 or higher)
 - A **Gemini API Key** — get one free at [Google AI Studio](https://aistudio.google.com/)
 
@@ -208,8 +211,6 @@ npm run clean    # Clean build output
 ---
 
 ## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
 
 1. Fork the project
 2. Create your feature branch: `git checkout -b feature/amazing-feature`
