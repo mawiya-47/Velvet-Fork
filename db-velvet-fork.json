@@ -1,0 +1,496 @@
+{
+  "users": [
+    {
+      "id": "usr_admin",
+      "email": "muhammadmawiya5@gmail.com",
+      "name": "Muhammad Mawiya",
+      "role": "admin",
+      "points": 1250,
+      "balance": 5000,
+      "wishlist": [
+        "it_st_01",
+        "it_bg_01"
+      ],
+      "createdAt": "2026-06-23T13:28:33.025Z"
+    }
+  ],
+  "menuItems": [
+    {
+      "id": "it_st_01",
+      "name": "Truffle Butter Scallops",
+      "category": "Starters",
+      "description": "Pan-seared Hokkaido giant scallops with black truffle emulsion, sunchoke puree, and crisp sage.",
+      "ingredients": [
+        "Scallops",
+        "Black Truffle",
+        "Sunchoke",
+        "Sauterne Wine",
+        "Cultured Butter"
+      ],
+      "nutritionalInfo": {
+        "calories": 310,
+        "protein": "24g",
+        "carbs": "12g",
+        "fat": "18g"
+      },
+      "price": 28,
+      "rating": 4.9,
+      "prepTime": "12 mins",
+      "images": [
+        "https://images.unsplash.com/photo-1626132647523-66f5bf380027?auto=format&fit=crop&q=80&w=800"
+      ],
+      "tags": [
+        "Chef Choice",
+        "Gluten Free"
+      ]
+    },
+    {
+      "id": "it_st_02",
+      "name": "Heirloom Burrata Artisanal",
+      "category": "Starters",
+      "description": "Smoked creamy burrata over heirloom tomato carpaccio, copper balsamic pearls, and garden micro-basil.",
+      "ingredients": [
+        "Burrata Cheese",
+        "Heirloom Tomatoes",
+        "Aged Balsamic",
+        "Extra Virgin Olive Oil",
+        "Microgreens"
+      ],
+      "nutritionalInfo": {
+        "calories": 420,
+        "protein": "18g",
+        "carbs": "9g",
+        "fat": "34g"
+      },
+      "price": 24,
+      "rating": 4.8,
+      "prepTime": "8 mins",
+      "images": [
+        "https://images.unsplash.com/photo-1608897013039-887f21d8c804?auto=format&fit=crop&q=80&w=800"
+      ],
+      "tags": [
+        "Vegan",
+        "Gluten Free"
+      ]
+    },
+    {
+      "id": "it_pz_01",
+      "name": "Peachy Prosciutto & Truffle Pizza",
+      "category": "Pizza",
+      "description": "Smoked mozzarella, white peach slices, prosciutto di Parma, wild arugula, and a luxurious drizzle of white truffle honey.",
+      "ingredients": [
+        "Prosciutto",
+        "White Peaches",
+        "Truffle Honey",
+        "Mozzarella",
+        "Aged Sourdough Crust"
+      ],
+      "nutritionalInfo": {
+        "calories": 750,
+        "protein": "32g",
+        "carbs": "82g",
+        "fat": "28g"
+      },
+      "price": 36,
+      "rating": 4.7,
+      "prepTime": "15 mins",
+      "images": [
+        "https://images.unsplash.com/photo-1513104890138-7c749659a591?auto=format&fit=crop&q=80&w=800"
+      ],
+      "tags": [
+        "Aromatic"
+      ]
+    },
+    {
+      "id": "it_bg_01",
+      "name": "Imperial 24K Wagyu Burger",
+      "category": "Burgers",
+      "description": "A6 grade Japanese Wagyu beef patty, molten gruyere, white truffle aioli, and caramelized onions wrapped in edible 24K gold leaf.",
+      "ingredients": [
+        "Wagyu Beef",
+        "Gruyere Cheese",
+        "Truffle Brioche Bun",
+        "Caramelized Shallots",
+        "Edible Gold Leaf"
+      ],
+      "nutritionalInfo": {
+        "calories": 980,
+        "protein": "52g",
+        "carbs": "44g",
+        "fat": "62g"
+      },
+      "price": 48,
+      "rating": 5,
+      "prepTime": "20 mins",
+      "images": [
+        "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?auto=format&fit=crop&q=80&w=800"
+      ],
+      "tags": [
+        "Chef Choice",
+        "Luxury"
+      ]
+    },
+    {
+      "id": "it_bq_01",
+      "name": "Rosemary Glazed Lamb Chops",
+      "category": "BBQ",
+      "description": "Charcoal grill-kissed Australian lamb chops coated in dynamic rosemary, garlic, and copper pomegranate reduction.",
+      "ingredients": [
+        "Australian Lamb",
+        "Fresh Rosemary",
+        "Pomegranate Reduction",
+        "Smoked Sea Salt"
+      ],
+      "nutritionalInfo": {
+        "calories": 680,
+        "protein": "48g",
+        "carbs": "14g",
+        "fat": "42g"
+      },
+      "price": 45,
+      "rating": 4.9,
+      "prepTime": "18 mins",
+      "images": [
+        "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&q=80&w=800"
+      ],
+      "tags": [
+        "Signature BBQ",
+        "Gluten Free"
+      ]
+    },
+    {
+      "id": "it_pk_01",
+      "name": "Saffron Imperial Lamb Korma",
+      "category": "Pakistani Food",
+      "description": "Slow-braised tender premium lamb shoulder infused with hand-picked saffron, cardamom essences, crushed almonds, and slow-churned organic ghee.",
+      "ingredients": [
+        "Tender Lamb Shoulder",
+        "Organic Saffron",
+        "Cardamom Pearls",
+        "Ghee",
+        "Almond Paste"
+      ],
+      "nutritionalInfo": {
+        "calories": 820,
+        "protein": "44g",
+        "carbs": "18g",
+        "fat": "56g"
+      },
+      "price": 38,
+      "rating": 5,
+      "prepTime": "25 mins",
+      "images": [
+        "https://images.unsplash.com/photo-1545247181-516773cae754?auto=format&fit=crop&q=80&w=800"
+      ],
+      "tags": [
+        "Chef Choice",
+        "Royal Heritage"
+      ]
+    },
+    {
+      "id": "it_pk_02",
+      "name": "Velvet Butter Chicken Makhani",
+      "category": "Pakistani Food",
+      "description": "Charcoal roasted spiced chicken tikka pieces simmered in silk-smooth cashew-tomato gravy with gourmet house butter.",
+      "ingredients": [
+        "Chicken Tikka",
+        "Gourmet Butter",
+        "Cashew Paste",
+        "Heirloom Tomato Gravy",
+        "Fenugreek"
+      ],
+      "nutritionalInfo": {
+        "calories": 710,
+        "protein": "38g",
+        "carbs": "15g",
+        "fat": "44g"
+      },
+      "price": 32,
+      "rating": 4.9,
+      "prepTime": "20 mins",
+      "images": [
+        "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?auto=format&fit=crop&q=80&w=800"
+      ],
+      "tags": [
+        "Best Seller"
+      ]
+    },
+    {
+      "id": "it_ps_01",
+      "name": "Truffle Wild Mushroom Linguine",
+      "category": "Pasta",
+      "description": "House-crafted bronze-cut linguine tossed with morel mushrooms, fresh black truffles, Parmigiano-Reggiano cream, and soft chives.",
+      "ingredients": [
+        "Handmade Linguine",
+        "Organic Mushrooms",
+        "Black Truffle Paté",
+        "Pecorino",
+        "Parmigiano-Reggiano"
+      ],
+      "nutritionalInfo": {
+        "calories": 680,
+        "protein": "22g",
+        "carbs": "78g",
+        "fat": "26g"
+      },
+      "price": 34,
+      "rating": 4.9,
+      "prepTime": "14 mins",
+      "images": [
+        "https://images.unsplash.com/photo-1612874742237-6526221588e3?auto=format&fit=crop&q=80&w=800"
+      ],
+      "tags": [
+        "Vegan Option"
+      ]
+    },
+    {
+      "id": "it_sf_01",
+      "name": "Saffron Butter Salmon Tail",
+      "category": "Seafood",
+      "description": "Wild Scottish salmon fillet pan-roasted skin-crisp, served over asparagus spears and coated in heavy saffron-chive butter.",
+      "ingredients": [
+        "Scottish Salmon",
+        "Kashmiri Saffron",
+        "Young Asparagus",
+        "Chive Beurre Blanc"
+      ],
+      "nutritionalInfo": {
+        "calories": 540,
+        "protein": "39g",
+        "carbs": "8g",
+        "fat": "38g"
+      },
+      "price": 42,
+      "rating": 4.8,
+      "prepTime": "16 mins",
+      "images": [
+        "https://images.unsplash.com/photo-1467003909585-2f8a72700288?auto=format&fit=crop&q=80&w=800"
+      ],
+      "tags": [
+        "Signature",
+        "Gluten Free"
+      ]
+    },
+    {
+      "id": "it_ds_01",
+      "name": "Golden Velvet Lava Soufflé",
+      "category": "Desserts",
+      "description": "72% Madagascar chocolate warm soufflé with a molten interior, raspberry reduction, and gold dust dusting.",
+      "ingredients": [
+        "Valrhona Chocolate",
+        "Organic Eggs",
+        "Raspberries",
+        "Grand Marnier",
+        "Gold Leaf Crystals"
+      ],
+      "nutritionalInfo": {
+        "calories": 480,
+        "protein": "8g",
+        "carbs": "52g",
+        "fat": "22g"
+      },
+      "price": 18,
+      "rating": 5,
+      "prepTime": "15 mins",
+      "images": [
+        "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?auto=format&fit=crop&q=80&w=800"
+      ],
+      "tags": [
+        "Chef Choice"
+      ]
+    },
+    {
+      "id": "it_ds_02",
+      "name": "Saffron Pistachio Brûlée",
+      "category": "Desserts",
+      "description": "Creamy vanilla bean custard infused with saffron threads, topped with hardened sugar glass and roasted Sicilian pistachios.",
+      "ingredients": [
+        "Vanilla Bean",
+        "Heavy Cream",
+        "Saffron Threads",
+        "Sicilian Pistachio",
+        "Melted Cane Sugar"
+      ],
+      "nutritionalInfo": {
+        "calories": 390,
+        "protein": "6g",
+        "carbs": "28g",
+        "fat": "24g"
+      },
+      "price": 16,
+      "rating": 4.9,
+      "prepTime": "10 mins",
+      "images": [
+        "https://images.unsplash.com/photo-1516685018646-549198525c1b?auto=format&fit=crop&q=80&w=800"
+      ],
+      "tags": [
+        "Gluten Free"
+      ]
+    },
+    {
+      "id": "it_dr_01",
+      "name": "Hibiscus Saffron Copper Sparkler",
+      "category": "Drinks",
+      "description": "Sparkling natural spring hydration combined with cold-extracted hibiscus flowers, luxury saffron syrup, and elderflower mist.",
+      "ingredients": [
+        "Cold Hibiscus Brew",
+        "Organic Saffron Syrup",
+        "Elderflower Cordial",
+        "Spring Water Sparkling"
+      ],
+      "nutritionalInfo": {
+        "calories": 95,
+        "protein": "0g",
+        "carbs": "24g",
+        "fat": "0g"
+      },
+      "price": 12,
+      "rating": 4.9,
+      "prepTime": "5 mins",
+      "images": [
+        "https://images.unsplash.com/photo-1536935338788-846bb9981813?auto=format&fit=crop&q=80&w=800"
+      ],
+      "tags": [
+        "Non-Alcoholic",
+        "Organic"
+      ]
+    }
+  ],
+  "reservations": [
+    {
+      "id": "res_01",
+      "userId": "usr_admin",
+      "userEmail": "muhammadmawiya5@gmail.com",
+      "userName": "Muhammad Mawiya",
+      "date": "2026-06-25",
+      "time": "19:30",
+      "guests": 4,
+      "specialInstructions": "Honeymoon dinner near the terrace.",
+      "tableNumber": 12,
+      "status": "Confirmed",
+      "eventType": "Private Event",
+      "cardChargedAmount": 150
+    }
+  ],
+  "orders": [
+    {
+      "id": "ord_281943",
+      "userId": "usr_admin",
+      "userEmail": "muhammadmawiya5@gmail.com",
+      "userName": "Muhammad Mawiya",
+      "items": [
+        {
+          "menuItemId": "it_st_01",
+          "name": "Truffle Butter Scallops",
+          "price": 28,
+          "quantity": 2,
+          "image": "https://images.unsplash.com/photo-1532636875304-0c8fe119fa9e?auto=format&fit=crop&q=80&w=800"
+        },
+        {
+          "menuItemId": "it_ds_01",
+          "name": "Golden Velvet Lava Soufflé",
+          "price": 18,
+          "quantity": 1,
+          "image": "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?auto=format&fit=crop&q=80&w=800"
+        }
+      ],
+      "subtotal": 74,
+      "discount": 10,
+      "total": 64,
+      "pointsEarned": 740,
+      "pointsUsed": 0,
+      "address": "Luxury Penthouse Suite, Downtown 5th Avenue",
+      "phone": "+1 (555) 123-4567",
+      "paymentMode": "wallet",
+      "paymentStatus": "paid",
+      "status": "Delivered",
+      "date": "2026-06-21T13:28:33.025Z",
+      "specialInstructions": "Ring bell once"
+    }
+  ],
+  "payments": [],
+  "reviews": [
+    {
+      "id": "rev_01",
+      "userId": "usr_admin",
+      "userName": "Muhammad Mawiya",
+      "menuItemId": "it_st_01",
+      "rating": 5,
+      "comment": "Absolutely stellar. The sunchoke puree pairs phenomenally with the seared scallops! World-class fine dining indeed.",
+      "date": "2026-06-23T13:28:33.025Z"
+    },
+    {
+      "id": "rev_02",
+      "userId": "usr_admin",
+      "userName": "Muhammad Mawiya",
+      "menuItemId": "it_pk_01",
+      "rating": 5,
+      "comment": "Imperial Lamb Korma is incredibly rich and authentic. Tender meat fell right off the bone with cardamom warmth. Simply stunning.",
+      "date": "2026-06-23T13:28:33.025Z"
+    }
+  ],
+  "blogs": [
+    {
+      "id": "blog_01",
+      "title": "The Crafting of A6 Japanese Wagyu at Velvet Fork",
+      "excerpt": "Deep dive into the sourcing, marbling indices, and premium char-searing techniques behind our world-famous burger.",
+      "content": "Inside the kitchens of Velvet Fork, Japanese Wagyu is treated as a sacred medium of art. Raised in pristine mountains in Miyazaki prefecture, our beef contains marble scores reaching grade twelve. Cooking this beef requires intense pan-searing on artisanal pink Himalayan salt stones, locking in pristine monounsaturated fats. Brushed with aged white truffle butter and carefully plated inside 24-carat gourmet gold leaf, our Imperial Wagyu Burger transcends the definition of modern burgers. Pair it with an ancient vintage bordeaux to cut through the exquisite rich fat profile for an unforgettable dinner.",
+      "author": "Executive Chef Jean-Luc",
+      "date": "2026-06-15",
+      "image": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&q=80&w=800",
+      "tags": [
+        "Chef Secret",
+        "Gourmet Story"
+      ],
+      "readTime": "5 min read"
+    },
+    {
+      "id": "blog_02",
+      "title": "Elevating cardamoms and saffrons in Fine Dining",
+      "excerpt": "Unpacking the rich historic culinary pathways of Imperial Mogul and Pakistani cooking styles redefined for luxury layouts.",
+      "content": "Pakistani traditional cooking has always carried the depth of aromatic spices. In recreating the Imperial Lamb Korma, our kitchen team set out to marry standard fine-dining reduction techniques with braising methods dating back to the grand Royal Mughlai courts. Hand-ground almonds form a velvety butter paste, emulsified with double-strained warm ghee. Kashmiri saffron threads are lightly toasted to activate volatile esters before being submerged in high-hydration cream. The result is a gorgeous golden gravy with smooth mouthfeel and balanced cardamom finishes. It represents the very DNA of what Velvet Fork stands for: respecting the old while pioneering the sublime.",
+      "author": "Chef Tariq Mehmood",
+      "date": "2026-06-18",
+      "image": "https://images.unsplash.com/photo-1545247181-516773cae754?auto=format&fit=crop&q=80&w=800",
+      "tags": [
+        "Technique",
+        "Heritage"
+      ],
+      "readTime": "7 min read"
+    }
+  ],
+  "coupons": [
+    {
+      "code": "VELVETVELVET",
+      "discountPercentage": 15,
+      "minAmount": 50,
+      "active": true,
+      "description": "15% off fine-dining gourmet orders above $50"
+    },
+    {
+      "code": "GOLDENGASTRONOMY",
+      "discountPercentage": 20,
+      "minAmount": 100,
+      "active": true,
+      "description": "Exclusive 20% off for bill orders above $100"
+    }
+  ],
+  "notifications": [
+    {
+      "id": "not_welcome_01",
+      "title": "Welcome to Velvet Fork",
+      "message": "Experience modern culinary art. Use coupon code VELVETVELVET to enjoy 15% off your first fine-dining order!",
+      "type": "special",
+      "date": "2026-06-23T13:28:33.025Z",
+      "read": false
+    },
+    {
+      "id": "not_special_alert",
+      "title": "Chef's Special Alert: Hokkaido Scallops",
+      "message": "Enjoy fresh Hokkaido Truffle Butter Scallops crafted by Executive Chef Jean-Luc. Limited portions available today.",
+      "type": "special",
+      "date": "2026-06-23T13:28:33.025Z",
+      "read": false
+    }
+  ]
+}

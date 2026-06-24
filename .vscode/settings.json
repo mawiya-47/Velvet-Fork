@@ -1,0 +1,16 @@
+{
+  "js/ts.validate.enabled": false,
+  "js/ts.suggestionActions.enabled": false,
+  "css.validate": false,
+  "scss.validate": false,
+  "less.validate": false,
+  "html.validate.scripts": false,
+  "html.validate.styles": false,
+  "editor.renderValidationDecorations": "off",
+  "problems.showCurrentInStatus": false,
+  "cSpell.enabled": false,
+  "tailwindCSS.lint.suggestCanonicalClasses": "ignore",
+  "tailwindCSS.lint.cssConflict": "ignore",
+  "tailwindCSS.lint.invalidApply": "ignore",
+  "tailwindCSS.suggestions": false
+}

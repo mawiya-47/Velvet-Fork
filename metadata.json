@@ -1,0 +1,6 @@
+{
+  "name": "Velvet Fork",
+  "description": "A luxury full-stack restaurant application featuring a premium fine-dining menu, digital table booking, seamless online ordering, personalized loyalty rewards, user and admin dashboards, and an AI culinary sommelier.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
